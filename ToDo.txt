@@ -1,0 +1,5 @@
+function to add patients
+
+function to create an appointment (unite the fname and lname of patient/doctor)
+
+function to print the appointments of yourself
